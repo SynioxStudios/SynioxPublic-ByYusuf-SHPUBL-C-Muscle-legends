@@ -1,4 +1,4 @@
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Byhalis/Gui-v8/main/v2"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/SynioxStudios/SynioxPublic-SH-MSGui-ByYusuf-Font/refs/heads/main/v2.txt"))()"))()
 
 local window = library:AddWindow("SYNİOX PUBLIC | MUSCLE LEGENDS | ByYusuf | V1.0", {
     main_color = Color3.fromRGB(0, 0, 0),
@@ -2415,4 +2415,5 @@ credits:AddButton("Copy Discord Invite", function()
         setclipboard("https://discord.gg/FsG2cGay")
     end
 end)
+
 
